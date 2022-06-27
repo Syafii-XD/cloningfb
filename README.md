@@ -40,4 +40,4 @@ $ cd cloningfb
 
 
 
-$ python cloning.py
+$ python run.py
