@@ -40,4 +40,4 @@ $ cd cloningfb
 
 
 
-$ python fii.py
+$ python setup.py
